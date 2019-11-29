@@ -1,0 +1,38 @@
+body 
+{
+  background-color: grey;
+}
+
+h3
+{
+  text-align: center;
+  font-style: italics;
+
+}
+
+h1
+{
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+
+img 
+{
+  width: 300px;
+  height: 200px;
+  margin-left: 300px;
+  margin-right: 0px;
+}
+
+.intro
+{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 15px;
+}
+
+.imgs
+{
+  margin-left: 500px;
+  margin-right: 0px;
+}
